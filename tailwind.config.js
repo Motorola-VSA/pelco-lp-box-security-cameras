@@ -10,8 +10,8 @@ module.exports = {
       xl: '1440px',
     },
     backgroundImage: {
-      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/box-security-cameras/01-SarixEnhanced3-Family-Header.jpg')",
-      'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/box-security-cameras/01-SarixEnhanced3-Family-Header-mobile.jpg')"
+      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/box-security-cameras/3.%20Web%20Landing%20Page%201440x600%20Fixed%20Box.jpg')",
+      'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/box-security-cameras/3.%20Web%20Landing%20Page%20420x576%20Fixed%20Box.jpg')"
     },
     extend: {
       colors: {
