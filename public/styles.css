@@ -762,6 +762,10 @@ html {
   pointer-events: none;
 }
 
+.fixed {
+  position: fixed;
+}
+
 .absolute {
   position: absolute;
 }
@@ -806,16 +810,16 @@ html {
   margin-top: 4rem;
 }
 
-.mt-4 {
-  margin-top: 1rem;
-}
-
 .mt-5 {
   margin-top: 1.25rem;
 }
 
 .mt-1 {
   margin-top: 0.25rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
 }
 
 .mt-2 {
@@ -1177,7 +1181,7 @@ html {
 }
 
 .bg-marquee-mobile {
-  background-image: url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/Fixed/Prospecting/1.%20Web%20Landing%20Page%20420x576%20Fixed%20Prospecting%20Network.jpg');
+  background-image: url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/box-security-cameras/01-SarixEnhanced3-Family-Header-mobile.jpg');
 }
 
 .bg-cover {
@@ -1700,7 +1704,7 @@ html {
   }
 
   .md\:bg-marquee-desktop {
-    background-image: url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/Fixed/Prospecting/1.%20Web%20Landing%20Page%201440x600%20Fixed%20Prospecting%20Network.jpg');
+    background-image: url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/box-security-cameras/01-SarixEnhanced3-Family-Header.jpg');
   }
 
   .md\:px-6 {
